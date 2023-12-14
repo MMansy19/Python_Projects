@@ -1,6 +1,6 @@
 # Python Projects
 
-These is some profissional Python Projects during my learning journey were made by clean code and problem solving principles
+These are some profissional Python Projects during my learning journey were made by clean code and problem solving principles
 
 ## Installation
 
